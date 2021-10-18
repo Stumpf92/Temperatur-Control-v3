@@ -2,11 +2,9 @@
 public class Main {
 
 	public static void main(String[] args) {
-		System.out.println("scheiﬂe alles gelˆscht 1");
-		System.out.println("junge richtig scheiﬂe und so");
-		System.out.println("jetzt aber richtig");
-		System.out.println("jetzt aber richtig");
-		System.out.println("jetzt aber richtig");
+		System.out.println("schei√üe alles gel√∂scht 1");
+		System.out.println("junge richtig schei√üe und so");
+		System.out.println("jetzt aber richtig 18.okt.2021");
 		System.out.println("check check, zuhause arbeiten und so");
 	}
 
